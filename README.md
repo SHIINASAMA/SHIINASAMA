@@ -1,1 +1,2 @@
-![1](https://raw.githubusercontent.com/SHIINASAMA/SHIINASAMA/master/background.png?raw=true)
+
+# Coding will make a new era!
