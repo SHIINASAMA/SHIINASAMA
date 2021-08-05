@@ -1,6 +1,7 @@
 
 ## Coding will make a new era!
 
-![Pictrue](Miku (Large).jpg)
+![Pictrue](image\Miku.jpg)
 
 ## THIS IS SHIINASAMA'S PROFILE PAGE -- WELCOME
+
