@@ -5,7 +5,7 @@ HI, I'm Kaoru.
 
 I usually use CPP as a development language, and I'm also interested in CSharp. 
 
-But actually the first computer language I learned was Java??? 😒
+But actually the first computer language I learned was Java.
 
 Forget it. Anyway, I love programming. We're gods in the computer world, but we're not.
 
