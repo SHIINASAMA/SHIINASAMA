@@ -1,18 +1,21 @@
-# [Kaoru](https://shiinasama.github.io)
+## Kaoru🤞
 
-HI, I'm Kaoru.
+### There is kaoru's profile
 
-I usually use **CPP** as a development language, and I'm also interested in **CSharp**. 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=500&color=D23FF7&vCenter=true&width=525&height=40&lines=%3E+Hi+there!+;%3E+I+like+developing+libraries+and;%3E+server+programming+with+C%2B%2B." />
 
-But actually the first computer language I learned was **Java** (in 2014).
-
-Forget it. Anyway, I love programming. We're gods in the computer world, but we're not.
-
-I believe we can create a better world by coding.
-
-<a href="https://github.com/SHIINASAMA">
-  <img align="center" height=200px src="https://github-readme-stats.vercel.app/api?username=SHIINASAMA&count_private=true&show_icons=true&bg_color=135,FFF886,F072B6" />
+<a href="">
+    <img align="center" 
+         height=160
+         src="https://github-readme-stats.vercel.app/api?username=SHIINASAMA&count_private=true&show_icons=true&theme=vue" />
 </a>
-<a href="https://github.com/SHIINASAMA">
-  <img align="center" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIINASAMA&bg_color=35,FFF886,FFC0CB")/>
+<a href="">
+    <img align="center"
+         height=160
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIINASAMA&layout=compact" />
 </a>
+
+<p><br>
+
+> Contact me: <br>
+> Email <a href="mailto:shiina_kaoru@outlook.com"> shiina_kaoru@outlook.com </a>
