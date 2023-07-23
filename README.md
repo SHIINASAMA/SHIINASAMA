@@ -17,5 +17,13 @@
 
 <p><br>
 
+### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake.svg" />
+</picture>
+
 > Contact me: <br>
 > Email <a href="mailto:shiina_kaoru@outlook.com"> shiina_kaoru@outlook.com </a>
