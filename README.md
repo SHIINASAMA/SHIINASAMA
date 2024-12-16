@@ -10,11 +10,9 @@
 
 ## Building projects with
 
-<div align=center>
 <img
-  src="https://skillicons.dev/icons?theme=dark&perline=9&i=cpp,ts,cs,rust,py,java,vue,electron,qt,docker,nodejs,linux,clion,vscode,visualstudio,github,mysql,sqlite"
+  src="https://skillicons.dev/icons?theme=dark&perline=12&i=cpp,ts,react,vue,cs,rust,py,cmake,java,vue,electron,qt,docker,nodejs,linux,windows,clion,vscode,visualstudio,github,mysql,sqlite"
 />
-</div>
 
 ## Github status
 
