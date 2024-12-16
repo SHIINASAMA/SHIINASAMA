@@ -33,7 +33,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake.svg" />
 </picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SHIINASAMA&no-frame=true">
+<img src="https://github-profile-trophy.vercel.app/?username=SHIINASAMA&no-frame=true&column=6&margin-w=15&margin-h=15">
 
 ## Repositories
 
