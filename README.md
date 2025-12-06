@@ -1,41 +1,42 @@
-# Kaoru🤞
+# Hi there
 
-## Intro
+<img src="https://github-readme-stats-fast.vercel.app/api?username=SHIINASAMA&show_icons=true" />
 
-👋 I’m Kaoru, born in 2001. I’m an open-source enthusiast and a full-stack software engineer with nearly a decade of development experience.
+## About me
 
-🌟 For some “obvious” reasons, I only started storing my code on GitHub in 2019, using it as a collaborative platform among friends.
+B.S. in Computer Science. 
 
-🚀 I’m more than willing to share and open-source some of my code on this platform (excluding privacy-related code, which is typically toy projects or technical experiments). Feel free to engage in technical discussions with me!
+Currently working in the energy/power industry and actively developing skills in plant/station IT operations and office automation. 
 
-## Building projects with
-
-<img
-  src="https://skillicons.dev/icons?theme=dark&perline=12&i=cpp,ts,react,vue,cs,rust,py,cmake,java,vue,electron,qt,docker,nodejs,linux,windows,clion,vscode,visualstudio,github,mysql,sqlite"
-/>
-
-## Github status
-
-<a href="">
-    <img height=160px
-         src="https://github-readme-stats.vercel.app/api?username=SHIINASAMA&count_private=true&show_icons=true&theme=vue" />
-</a>
-<a href="">
-    <img height=160px
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIINASAMA&hide=cmake,v&layout=compact" />
-</a>
+Interested in engineering efficiency, data processing, and building practical tools to improve real-world workflows.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shiinasama/shiinasama/output/github-snake.svg" width="700" />
 </picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SHIINASAMA&no-frame=true&column=6&margin-w=15&margin-h=15">
+<p>
+  <img src="https://img.shields.io/badge/Electrical%20Engineer-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Programmer-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Technical%20Reading-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Japanese-N2-1F75FE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chinese-B2%2FHSK5-DC143C?style=for-the-badge" />
+</p>
 
 ## Contact me
 
-<a href="shiinasama2001@gmail.com"> shiinasama2001@gmail.com </a> OR <a href="https://t.me/shiinasama">Telegram</a>
+<p>
+  <a href="mailto:shiinasama2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge" />
+  </a>
+  <a href="https://t.me/shiinasama">
+    <img src="https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge" />
+  </a>
+</p>
+
+
+<br>
 
 <img src="https://api.moedog.org/count/@shiinasama.readme"/>
 
