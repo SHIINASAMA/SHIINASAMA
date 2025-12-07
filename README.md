@@ -1,6 +1,10 @@
 # Hi there
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=SHIINASAMA&show_icons=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=SHIINASAMA&show_icons=true&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=SHIINASAMA&show_icons=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SHIINASAMA&show_icons=true" />
+<picture>
 
 ## About me
 
@@ -39,4 +43,5 @@ Interested in engineering efficiency, data processing, and building practical to
 <br>
 
 <img src="https://api.moedog.org/count/@shiinasama.readme"/>
+
 
